@@ -6,6 +6,7 @@ public class Gugudan {
 		System.out.println("备备窜");
 
 		int sum = 0;
+		
 		/*
 		 * for (int i = 2; i <= 9; i++) { for (int j = i; j <= 9; j++) { sum = i * j;
 		 * System.out.println(i + "*" + j + "=" + sum); } }沥侥 备备窜
