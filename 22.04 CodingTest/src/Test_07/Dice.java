@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 3개 주사위의 나온 눈이 주어질 때, 상금을 계산하는 프로그램을 작성 하시오.
  */
-public class Dice {
+public class Dice { 
 	public static void main(String[] args) {
 		System.out.println("주사위 던지기 시작!");
 		/*
